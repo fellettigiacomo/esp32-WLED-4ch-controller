@@ -11,7 +11,7 @@ I tried to make this board as cheap as possibile using JLCPCB basics part for PC
 This PCB supports up to 4 addressable led strips:
 Only strips that works with 5V are compatible. 
 Compatible strips: WS2811 - WS2812B - TM1829 (and other with 5V, DATA, GND). Check [the wled wiki](https://kno.wled.ge/basics/compatible-led-strips/) for more info
-The board allows for a maximum current of around 100W (20A) max. Maximum current for a single relay is 10A (50W)
+<br>The board allows for a maximum current of around 100W (20A) max. Maximum current for a single relay is 10A (50W)
 
 
 ## Flashing
