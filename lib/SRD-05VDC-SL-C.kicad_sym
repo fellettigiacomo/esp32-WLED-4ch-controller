@@ -1,0 +1,149 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "SRD-05VDC-SL-C" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "K" (id 0) (at -5.0809 5.84304 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "SRD-05VDC-SL-C" (id 1) (at -5.08319 -10.1664 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "SRD-05VDC-SL-C:RELAY_SRD-05VDC-SL-C" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "Songle Relay" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\n5V Trigger Relay Module For Arduino And Raspberry Pi 5V Trigger Relay Module For Arduino And Raspberry Pi\n" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "NON STANDARD-5 Songle Relay" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/SRD-05VDC-SL-C/Songle+Relay/view-part/?ref=eda" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "IPC-7251" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/SRD-05VDC-SL-C/Songle+Relay/view-part/?ref=snap" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "SRD-05VDC-SL-C" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "Not in stock" (id 12) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "SONGLE RELAY" (id 13) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "SRD-05VDC-SL-C_0_0"
+      (polyline
+        (pts (xy -5.08 2.54) (xy -2.54 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 2.54) (xy -2.54 0.254)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 0.254) (xy -3.556 0.254)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -3.556 0.254) (xy -3.556 -2.794)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -3.556 -2.794) (xy -2.54 -2.794)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 -2.794) (xy -1.524 -2.794)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -1.524 -2.794) (xy -1.524 0.254)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -1.524 0.254) (xy -2.54 0.254)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 -2.794) (xy -2.54 -5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 -5.08) (xy -5.08 -5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 -2.54) (xy 2.54 -5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 -5.08) (xy 5.08 -5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 5.08 2.54) (xy 2.54 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 2.54) (xy 2.54 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 3.556 -1.27) (xy 4.318 -1.27)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 4.318 -1.27) (xy 4.318 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 3.556 -1.27) (xy 2.286 -2.286)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 4.318 0.0) (xy 5.08 0.0)) (stroke (width 0.1524))
+      )
+      (circle (center 2.54 0.0) (radius 0.254)
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (circle (center 2.54 -2.54) (radius 0.254)
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (rectangle (start -5.08 -7.62) (end 5.08 5.08)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin passive line (at -7.62 2.54 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -7.62 -5.08 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 7.62 -5.08 180.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "NC"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 7.62 0.0 180.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "COM"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 7.62 2.54 180.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "NO"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
