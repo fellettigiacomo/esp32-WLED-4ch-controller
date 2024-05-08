@@ -1,4 +1,7 @@
 (sym_lib_table
   (version 7)
-  (lib (name "SN74AHCT125PWR")(type "KiCad")(uri "Z:/condivisa/lib/SN74AHCT125PWR.kicad_sym")(options "")(descr ""))
+  (lib (name "SRD-05VDC-SL-C")(type "KiCad")(uri "${KIPRJMOD}/lib/SRD-05VDC-SL-C.kicad_sym")(options "")(descr ""))
+  (lib (name "wled-logo-f")(type "KiCad")(uri "${KIPRJMOD}/lib/wled-logo-f.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-S2-WROOM")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32-S2-WROOM.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74AHCT125PWR")(type "KiCad")(uri "${KIPRJMOD}/lib/SN74AHCT125PWR.kicad_sym")(options "")(descr ""))
 )
