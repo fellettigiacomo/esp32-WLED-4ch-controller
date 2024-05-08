@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SN74AHCT125PWR")(type "KiCad")(uri "Z:/condivisa/lib/SN74AHCT125PWR.kicad_sym")(options "")(descr ""))
+)
