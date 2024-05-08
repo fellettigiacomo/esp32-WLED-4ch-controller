@@ -1,5 +1,5 @@
 
-(footprint RELAY_SRD-05VDC-SL-C (layer F.Cu) (tedit 65BCD525)
+(footprint RELAY_SRD-05VDC-SL-C (layer F.Cu) (tedit 65DD9BB4)
   (descr "")
   (fp_text reference REF** (at -6.62563 -8.83584 0) (layer F.SilkS)
     (effects (font (size 1.00009448819 1.00009448819) (thickness 0.15)))
