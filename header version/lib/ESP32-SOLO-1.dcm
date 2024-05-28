@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ESP32-SOLO-1
-D WiFi Modules (802.11) SMD Module, ESP32-S0WD, 32Mbits SPI flash, UART mode,
-K
-F https://www.espressif.com/sites/default/files/documentation/esp32-solo-1_datasheet_en.pdf
-$ENDCMP
-#
-#End Doc Library
