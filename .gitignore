@@ -1,0 +1,7 @@
+#kicad files
+*.kicad_prl
+fabriaction-toolkit-options.json
+fp-info-cache
+/jlcpcb/gerber
+esp32_wled_controller-backups
+esp-32-WLED-controller-backups
