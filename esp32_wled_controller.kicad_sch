@@ -13666,7 +13666,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
+		(property "Footprint" "lib:CONN-TH_3P-P5.00_KF301-5.0-3P"
 			(at 283.21 158.75 0)
 			(effects
 				(font
@@ -14259,7 +14259,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+		(property "Footprint" "lib:CONN-TH_P5.00_KF301-5.0-2P"
 			(at 331.47 142.24 0)
 			(effects
 				(font
@@ -17480,7 +17480,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
+		(property "Footprint" "lib:CONN-TH_3P-P5.00_KF301-5.0-3P"
 			(at 283.21 140.97 0)
 			(effects
 				(font
@@ -19306,7 +19306,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
+		(property "Footprint" "lib:CONN-TH_3P-P5.00_KF301-5.0-3P"
 			(at 283.21 123.19 0)
 			(effects
 				(font
@@ -19523,7 +19523,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
+		(property "Footprint" "lib:CONN-TH_3P-P5.00_KF301-5.0-3P"
 			(at 283.21 176.53 0)
 			(effects
 				(font
@@ -21487,7 +21487,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+		(property "Footprint" "lib:CONN-TH_P5.00_KF301-5.0-2P"
 			(at 331.47 124.46 0)
 			(effects
 				(font
