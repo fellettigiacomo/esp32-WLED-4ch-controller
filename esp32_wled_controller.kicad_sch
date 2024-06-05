@@ -12879,7 +12879,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-4_W7.62mm"
+		(property "Footprint" "lib:OPTO-SMD-4_L4.6-W6.5-P2.54-LS10.3-TL"
 			(at 54.61 57.15 0)
 			(effects
 				(font
@@ -15644,7 +15644,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-4_W7.62mm"
+		(property "Footprint" "lib:OPTO-SMD-4_L4.6-W6.5-P2.54-LS10.3-TL"
 			(at 54.61 198.12 0)
 			(effects
 				(font
@@ -18373,7 +18373,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-4_W7.62mm"
+		(property "Footprint" "lib:OPTO-SMD-4_L4.6-W6.5-P2.54-LS10.3-TL"
 			(at 54.61 102.87 0)
 			(effects
 				(font
@@ -19154,7 +19154,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-4_W7.62mm"
+		(property "Footprint" "lib:OPTO-SMD-4_L4.6-W6.5-P2.54-LS10.3-TL"
 			(at 54.61 148.59 0)
 			(effects
 				(font
